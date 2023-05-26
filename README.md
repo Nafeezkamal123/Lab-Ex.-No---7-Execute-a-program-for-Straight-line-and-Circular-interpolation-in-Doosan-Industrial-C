@@ -32,23 +32,27 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
-Linear Interpolation
-
-
-
-
-
-
-
-
-Circular Interpolation
 
 ### output
 
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/ca91d2a5-3f4d-4600-b08a-a9be098298c9)
+
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/c68f1d80-6546-4870-bd15-dc095c87cec2)
+
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/4878c36b-7cc0-4a80-af41-79564d806883)
+
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/b6865ed4-2312-4ef3-a0d5-16c67cc21dd6)
+
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/8fb25973-a535-4d22-80e7-93bd53379f60)
+
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/f5ecdbfd-1f8b-4e1d-a52e-7fd7445c9356)
+![image](https://github.com/Nafeezkamal123/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/128898953/28d8e0dd-fbae-4e16-b9e7-eeffee9d4687)
 
 
 
 ### Results 
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
+
 
 
 
